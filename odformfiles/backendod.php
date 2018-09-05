@@ -18,7 +18,7 @@ $course = ($_POST["course"]);
   $teacher=($_POST["teacher"]);
 
 
-//
+
 }
 
 ?>
